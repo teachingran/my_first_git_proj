@@ -2,3 +2,5 @@
 -- my code is very good
 -- im a master now
 -- ver 1 is now closed
+-- add code for ver 2
+-- ver 2 is now closed
